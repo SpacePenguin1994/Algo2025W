@@ -29,19 +29,12 @@ seo:
 
 **主讲人:** [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
-**课程时间地点:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &emsp; 每周三(1-16周), 奉贤3教楼401
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&nbsp;13:00 p.m.- 14:30 p.m. &emsp;每周五(1-8周), 奉贤3教楼401
+**课程时间地点:** &ensp;&nbsp;1:00 p.m.- 2:30 p.m. &emsp; 每周二(1-16周), 奉贤3教楼308
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&nbsp;8:00 a.m.- 9:30 a.m. &emsp;每周五(1-8周), 奉贤3教楼208
 
 
  更多信息可以关注 [课程安排](schedule.md).
 
-## 期末考试
-
-期末考试的时间已经发布，具体信息为：
-   - 地点：<font color="#dd0000"> 奉贤3教楼122</font>
-   - 考试时间：**2025年1月7日上午10:45-12:15** 
-  
-请同学们注意，该考试为**闭卷考试**。
 
 
 
@@ -53,17 +46,11 @@ seo:
 
 欢迎大家提出关于本课程的问题或建议。
 
-**2024年12月22日更新**
-
-本学期的课程即将结束，为了更好的改进课程，我建立了一个完课调查问卷：
-
-- [《算法设计与分析》完课调查问卷](https://www.wjx.cn/vm/Q04y0lW.aspx)
-
-该问卷不是强制性的，但我衷心希望每位同学都能参与，提出你们对于这堂课的想法和建议，谢谢！
 
 ## 之前的课程资料
 
 - [2023年秋季学期](https://www.algo2023w.spacepenguin.com.cn)
+- [2024年秋季学期](https://www.algo2024w.spacepenguin.com.cn)
   
 
 
