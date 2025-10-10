@@ -13,6 +13,6 @@ HW 2
 :  **DUE**{: .label .label-yellow} Oct 9 11:59 PM
 
 HW 3
-:  **HW**{: .label .label-red }Released: [Homework #3-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw3-noblank.pdf) &nbsp; [Homework #2-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw3-blank.pdf)
+:  **HW**{: .label .label-red }Released: [Homework #3-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw3-noblank.pdf) &nbsp; [Homework #3-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw3-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #324-摆动排序II](https://leetcode.cn/problems/wiggle-sort-ii/description/) &nbsp; 
 :  **DUE**{: .label .label-yellow} Oct 20 11:59 PM
