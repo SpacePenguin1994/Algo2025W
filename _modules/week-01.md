@@ -22,3 +22,7 @@ Lec 3
 Lec 4
 : **快速傅立叶变换(Fast Fourier Transform)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec4-handout.pdf)\]
+
+Lec 5
+: **堆和不相交数据结构(Heap and Disjoint Set Data Structures)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec5-handout.pdf)\]
