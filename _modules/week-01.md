@@ -26,3 +26,19 @@ Lec 4
 Lec 5
 : **堆和不相交数据结构(Heap and Disjoint Set Data Structures)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec5-handout.pdf)\]
+
+Lec 6
+: **图的遍历(Graph Traversal)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec6-handout.pdf)\]
+
+Lec 7
+: **最短路径(Shortest Path)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec7-handout.pdf)\]
+
+Lec 8
+: **贪心算法(Greedy Approach)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec8-handout.pdf)\]
+
+Lec 9
+: **动态规划(Dynamic Programming)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec9-handout.pdf)\]
