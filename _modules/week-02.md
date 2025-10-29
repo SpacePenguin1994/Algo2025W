@@ -21,3 +21,8 @@ HW 4
 :  **HW**{: .label .label-red }Released: [Homework #4-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw4-noblank.pdf) &nbsp; [Homework #4-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw4-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #621-任务调度器](https://leetcode.cn/problems/task-scheduler) &nbsp; 
 :  **DUE**{: .label .label-yellow} Oct 27 11:59 PM
+
+HW 5
+:  **HW**{: .label .label-red }Released: [Homework #5-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw5-noblank.pdf) &nbsp; [Homework #5-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw5-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #1722- 执行交换操作后的最小汉明距离](https://leetcode.cn/problems/minimize-hamming-distance-after-swap-operations/) &nbsp; 
+:  **DUE**{: .label .label-yellow} Nov 3 11:59 PM
