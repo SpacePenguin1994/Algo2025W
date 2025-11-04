@@ -13,3 +13,6 @@ HW 3
 
 HW 4
 :  **HW**{: .label .label-red }Released:[Homework #4-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw4-sol.pdf)
+
+HW 5
+:  **HW**{: .label .label-red }Released:[Homework #5-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw5-sol.pdf)
