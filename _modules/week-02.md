@@ -31,3 +31,8 @@ HW 6
 :  **HW**{: .label .label-red }Released: [Homework #6-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw6-noblank.pdf) &nbsp; [Homework #6-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw6-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #334 递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) &nbsp; 
 :  **DUE**{: .label .label-yellow} Nov 10 11:59 PM
+
+HW 7
+:  **HW**{: .label .label-red }Released: [Homework #7-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw7-noblank.pdf) &nbsp; [Homework #7-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw7-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #502 IPO](https://leetcode.cn/problems/ipo/) &nbsp; 
+:  **DUE**{: .label .label-yellow} Nov 17 11:59 PM
