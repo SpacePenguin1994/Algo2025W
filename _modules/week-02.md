@@ -36,3 +36,8 @@ HW 7
 :  **HW**{: .label .label-red }Released: [Homework #7-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw7-noblank.pdf) &nbsp; [Homework #7-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw7-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #502 IPO](https://leetcode.cn/problems/ipo/) &nbsp; 
 :  **DUE**{: .label .label-yellow} Nov 17 11:59 PM
+
+HW 8
+:  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw8-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #120 三角形最小路径和](https://leetcode.cn/problems/triangle/) &nbsp; 
+:  **DUE**{: .label .label-yellow} Nov 24 11:59 PM
