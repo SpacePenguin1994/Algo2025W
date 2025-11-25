@@ -41,3 +41,8 @@ HW 8
 :  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw8-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #120 三角形最小路径和](https://leetcode.cn/problems/triangle/) &nbsp; 
 :  **DUE**{: .label .label-yellow} Nov 24 11:59 PM
+
+HW 9
+:  **HW**{: .label .label-red }Released: [Homework #9-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw9-noblank.pdf) &nbsp; [Homework #9-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw9-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #396 旋转函数](https://leetcode.cn/problems/rotate-function) &nbsp; 
+:  **DUE**{: .label .label-yellow} Dec 1 11:59 PM

@@ -19,3 +19,9 @@ HW 5
 
 HW 6
 :  **HW**{: .label .label-red }Released:[Homework #6-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw6-sol.pdf)
+
+HW 7
+:  **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw7-sol.pdf)
+
+HW 8
+:  **HW**{: .label .label-red }Released:[Homework #8-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw8-sol.pdf)

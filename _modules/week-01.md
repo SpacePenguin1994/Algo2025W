@@ -46,3 +46,7 @@ Lec 9
 Lec 10
 : **NP完全问题(NP-Complete Problems)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec10-handout.pdf)\]
+
+Lec 11
+: **网络流(Network Flow)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/slides/AlgoLec11-handout.pdf)\]
