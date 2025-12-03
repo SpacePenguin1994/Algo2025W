@@ -46,3 +46,9 @@ HW 9
 :  **HW**{: .label .label-red }Released: [Homework #9-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw9-noblank.pdf) &nbsp; [Homework #9-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw9-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #396 旋转函数](https://leetcode.cn/problems/rotate-function) &nbsp; 
 :  **DUE**{: .label .label-yellow} Dec 1 11:59 PM
+
+
+HW 10
+:  **HW**{: .label .label-red }Released: [Homework #10-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw10-noblank.pdf) &nbsp; [Homework #10-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw10-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #335 路径交叉](https://leetcode.cn/problems/self-crossing) &nbsp; 
+:  **DUE**{: .label .label-yellow} Dec 8 11:59 PM
