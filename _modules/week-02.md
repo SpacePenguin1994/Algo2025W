@@ -52,3 +52,8 @@ HW 10
 :  **HW**{: .label .label-red }Released: [Homework #10-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw10-noblank.pdf) &nbsp; [Homework #10-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw10-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #335 路径交叉](https://leetcode.cn/problems/self-crossing) &nbsp; 
 :  **DUE**{: .label .label-yellow} Dec 8 11:59 PM
+
+HW 11
+:  **HW**{: .label .label-red }Released: [Homework #11-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw11-noblank.pdf) &nbsp; [Homework #11-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw11-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #3377 使两个整数相等的数位操作](https://leetcode.cn/problems/digit-operations-to-make-two-integers-equal) &nbsp; 
+:  **DUE**{: .label .label-yellow} Dec 15 11:59 PM

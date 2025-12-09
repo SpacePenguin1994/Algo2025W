@@ -28,3 +28,6 @@ HW 8
 
 HW 9
 :  **HW**{: .label .label-red }Released:[Homework #9-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw9-sol.pdf)
+
+HW 10
+:  **HW**{: .label .label-red }Released:[Homework #10-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw10-sol.pdf)
