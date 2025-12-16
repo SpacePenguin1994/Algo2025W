@@ -57,3 +57,8 @@ HW 11
 :  **HW**{: .label .label-red }Released: [Homework #11-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw11-noblank.pdf) &nbsp; [Homework #11-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw11-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #3377 使两个整数相等的数位操作](https://leetcode.cn/problems/digit-operations-to-make-two-integers-equal) &nbsp; 
 :  **DUE**{: .label .label-yellow} Dec 15 11:59 PM
+
+HW 12
+:  **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw12-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw12-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #3577 统计计算机解锁顺序排列数](https://leetcode.cn/problems/count-the-number-of-computer-unlocking-permutations) &nbsp; 
+:  **DUE**{: .label .label-yellow} Dec 22 11:59 PM
