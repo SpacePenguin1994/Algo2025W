@@ -62,3 +62,8 @@ HW 12
 :  **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw12-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw12-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #3577 统计计算机解锁顺序排列数](https://leetcode.cn/problems/count-the-number-of-computer-unlocking-permutations) &nbsp; 
 :  **DUE**{: .label .label-yellow} Dec 22 11:59 PM
+
+HW 13
+:  **HW**{: .label .label-red }Released: [Homework #13-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw13-noblank.pdf) &nbsp; [Homework #13-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw13-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #3128 直角三角形](https://leetcode.cn/problems/right-triangles) &nbsp; 
+:  **DUE**{: .label .label-yellow} Dec 29 11:59 PM
