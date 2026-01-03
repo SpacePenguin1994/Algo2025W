@@ -67,3 +67,6 @@ HW 13
 :  **HW**{: .label .label-red }Released: [Homework #13-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw13-noblank.pdf) &nbsp; [Homework #13-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw13-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #3128 直角三角形](https://leetcode.cn/problems/right-triangles) &nbsp; 
 :  **DUE**{: .label .label-yellow} Dec 29 11:59 PM
+
+HW 14
+:  **HW**{: .label .label-red }Released: [Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw14.pdf) 

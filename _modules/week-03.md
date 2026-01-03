@@ -37,3 +37,9 @@ HW 11
 
 HW 12
 :  **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw12-sol.pdf)
+
+HW 13
+:  **HW**{: .label .label-red }Released:[Homework #13-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw13-sol.pdf)
+
+HW 14
+:  **HW**{: .label .label-red }Released:[Homework #14-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2025w/homework/Algo-hw14-sol.pdf)
